@@ -1,1 +1,1 @@
-web:bundle exec lita
+web: cd lita-bundler&&bundle exec lita
