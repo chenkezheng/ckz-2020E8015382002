@@ -5,7 +5,7 @@ Lita.configure do |config|
 	else
 		config.robot.adapter=:shell
 	end
-config.adapters.slack.token=ENV.fetch('SLACK_TOKEN','')
+config.adapters.slack.token=ENV.fetch('SLACK_TOKEN','xoxb-1459525070837-1475269175633-SlTpGiS2jkjfPAfZpTjCTljQ')
 
 
 # The name your robot will use.
